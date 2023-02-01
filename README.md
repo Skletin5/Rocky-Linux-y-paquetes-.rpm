@@ -4,5 +4,8 @@
 ## 2.- Repositorios Rocky Linux
 ## 3.- Operaziones básicas
 ## Referencias
+-[Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada)
+-[Página de Rocky Linux](https://rockylinux.org)
 ## Autor
+Adolfo Perujo del Olmo
 ## Licencia
